@@ -1,4 +1,4 @@
-In Progress
+The app development is in Progress
 
 ## 📞 Contact Information
 
